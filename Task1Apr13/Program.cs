@@ -19,7 +19,7 @@ namespace APRIL_TASK1
         static void Main(string[] args)
         {
             List<student> students = new List<student>() {
-             new student(){firstname="Bhanu",lastname="Prasad",smailid="bhanuprasad@gamil.com",branch="EEE",percentage=87,subintrest= new List<string>{ "Power sys", "CONTROL engineering " } },
+             new student(){firstname="Divya",lastname="Sri",smailid="sdivyasree@gamil.com",branch="EEE",percentage=87,subintrest= new List<string>{ "Power sys", "CONTROL engineering " } },
              new student(){firstname="pranathi",lastname="lakshmi",smailid="pranati@gamil.com",branch="CSE",percentage=89,subintrest= new List<string>{ "DBMS","OOPS "} },
              new student(){firstname="yasaswini",lastname="krishnasri",smailid="yasaswini@gamil.com",branch="EEE",percentage=78,subintrest= new List<string>{ "fact","ODS "}},
              new student(){firstname="Syam",lastname="sundar",smailid="syam@gamil.com",branch="ECE",percentage=62,subintrest= new List<string>{ "WSN","DS "} },
