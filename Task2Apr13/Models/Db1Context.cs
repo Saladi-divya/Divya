@@ -31,7 +31,7 @@ namespace WEBAPI_TASK2.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Data Source=Bhanu😉;Database=Db1;Integrated Security=True");
+                optionsBuilder.UseSqlServer("Data Source=Divya;Database=Db1;Integrated Security=True");
             }
         }
 
